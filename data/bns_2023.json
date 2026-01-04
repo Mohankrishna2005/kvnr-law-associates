@@ -1,0 +1,71 @@
+[
+    {
+        "section": "103",
+        "title": "Punishment for Murder",
+        "explanation": "Defines the punishment for committing murder, which includes death or imprisonment for life, and liability to fine.",
+        "category": "Offences Affecting the Human Body",
+        "keywords": [
+            "murder",
+            "homicide",
+            "life imprisonment",
+            "death penalty"
+        ],
+        "cross_references": [
+            "100",
+            "101"
+        ]
+    },
+    {
+        "section": "111",
+        "title": "Organised Crime",
+        "explanation": "New provision defining organised crime and prescribing penalties for members of organised crime syndicates.",
+        "category": "Offences Against Public Tranquility",
+        "keywords": [
+            "organised crime",
+            "syndicate",
+            "hawala",
+            "contract killing"
+        ],
+        "cross_references": []
+    },
+    {
+        "section": "69",
+        "title": "Sexual Intercourse by Deceitful Means",
+        "explanation": "Criminalises sexual intercourse obtained by employing deceitful means, such as false promise of employment or promotion, or marrying after suppressing identity.",
+        "category": "Offences Against Women and Children",
+        "keywords": [
+            "deceit",
+            "false promise",
+            "identity",
+            "women"
+        ],
+        "cross_references": []
+    },
+    {
+        "section": "303",
+        "title": "Theft",
+        "explanation": "Defines the offence of theft as moving any movable property out of the possession of any person without that person's consent.",
+        "category": "Offences Against Property",
+        "keywords": [
+            "theft",
+            "movable property",
+            "possession"
+        ],
+        "cross_references": [
+            "305"
+        ]
+    },
+    {
+        "section": "316",
+        "title": "Criminal Breach of Trust",
+        "explanation": "Punishment for criminal breach of trust by public servants, bankers, merchants, or agents.",
+        "category": "Offences Against Property",
+        "keywords": [
+            "trust",
+            "embezzlement",
+            "agent",
+            "public servant"
+        ],
+        "cross_references": []
+    }
+]
